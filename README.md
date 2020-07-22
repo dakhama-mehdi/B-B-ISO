@@ -23,4 +23,10 @@ Why to use :
 FCB-ISO, is one of few tool that keep you to burn your iso on USB and also external hard drive
 you d'ont need to disable SecureBoot all signed driver by Microsoft was integrated.
 
+# Download 
+
+the portable version not need to be installed. 
+
+setup.exe is for install version, it is very stable and very fast
+
 Enjoy
