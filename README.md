@@ -25,8 +25,8 @@ you d'ont need to disable SecureBoot all signed driver by Microsoft was integrat
 
 # Download 
 
-the portable version not need to be installed. 
+-the portable version not need to be installed. (portable-version.zip)
 
-setup.exe is for install version, it is very stable and very fast
+-setup.exe is for install version, it is very stable and very fast
 
 Enjoy
