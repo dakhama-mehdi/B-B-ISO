@@ -39,5 +39,7 @@ This free tool have two fonctionality.
 * It is only Windows 10 Pro
 * On the upside, the install.wim is compressed to under 4GB so it can fit on FAT32 partitions and thus allow you to have only 1 partition on the key 
 
+![2020-11-30_17-53-00](https://user-images.githubusercontent.com/49924401/100645457-f962fb00-333c-11eb-8b88-6e3627495ce0.png)
+
 process)
 Enjoy
