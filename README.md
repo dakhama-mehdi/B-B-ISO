@@ -34,7 +34,7 @@ github re
 `* It is only the latest version of Windows. Right now, 2004 is the latest version, but if you needed 2002 or earlier it does not give you an option to select an earlier version.`
 `* It is only Windows 10 Pro`
 `* On the upside, the install.wim is compressed to under 4GB so it can fit on FAT32 partitions and thus allow you to have only 1 partition on the key (as opposed to 2 with my `
-
+* Une puce
 
 process)
 Enjoy
