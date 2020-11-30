@@ -29,9 +29,8 @@ This free tool have two fonctionality.
 
 # Download 
 
--the portable version not need to be installed. (portable-version.zip)
-
--setup.exe is for install version, it is very stable and very fast
+* the portable version not need to be installed. (portable-version.zip)
+* Setup.exe is for install version, it is very stable and very fast
 
 # One note on Microsoft’s tool. This tool has some limitations:
 
