@@ -33,8 +33,8 @@ This free tool have two fonctionality.
 * Setup.exe is for install version, it is very stable and very fast
 
 # How to use :
-*for create a usb media boot, click on Create USB Bootable, then chose path, mode MDR or UEFI, and click run
-*if you want create an ISO from folder or file, stay on first window, chose path and click create Iso From folder, you can also create an bootable iso
+* for create a usb media boot, click on Create USB Bootable, then chose path, mode MDR or UEFI, and click run
+* if you want create an ISO from folder or file, stay on first window, chose path and click create Iso From folder, you can also create an bootable iso
 
 # One note on Microsoft’s tool. This tool has some limitations:
 
