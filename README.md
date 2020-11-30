@@ -24,7 +24,7 @@ This free tool have two fonctionality.
 * you d'ont need to disable SecureBoot all signed driver by Microsoft was integrated
 * you can create a MBR/UEFI media from same tool
 * all media created and code is signed Mifcrosoft
-* compatible all version Windwos ISO (MDR or ESD)
+* compatible all version Windwos ISO (WIM or ESD)
 * dont need install, very fast, and tool is signed and verified 
 
 # Download 
