@@ -20,17 +20,12 @@ This free tool have two fonctionality.
 
 # Why to use : 
 
-*B&B-ISO, is one of few tool that keep you to burn your iso on USB and also external hard drive
-
-*you d'ont need to disable SecureBoot all signed driver by Microsoft was integrated
-
-*you can create a MBR/UEFI media from same tool
-
-*all media created and code is signed Mifcrosoft
-
-*compatible all version Windwos ISO (MDR or ESD)
-
-*dont need install, very fast, and tool is signed and verified 
+* B&B-ISO, is one of few tool that keep you to burn your iso on USB and also external hard drive
+* you d'ont need to disable SecureBoot all signed driver by Microsoft was integrated
+* you can create a MBR/UEFI media from same tool
+* all media created and code is signed Mifcrosoft
+* compatible all version Windwos ISO (MDR or ESD)
+* dont need install, very fast, and tool is signed and verified 
 
 # Download 
 
