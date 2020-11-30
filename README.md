@@ -32,6 +32,10 @@ This free tool have two fonctionality.
 * the portable version not need to be installed. (portable-version.zip)
 * Setup.exe is for install version, it is very stable and very fast
 
+# How to use :
+*for create a usb media boot, click on Create USB Bootable, then chose path, mode MDR or UEFI, and click run
+*if you want create an ISO from folder or file, stay on first window, chose path and click create Iso From folder, you can also create an bootable iso
+
 # One note on Microsoft’s tool. This tool has some limitations:
 
 * Each time you run it, it fully downloads the media from the internet. This makes it a much longer process if you are needing to re-do the process or setup multiple drives
