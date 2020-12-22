@@ -42,6 +42,8 @@ This free tool have two fonctionality.
 * It is only the latest version of Windows. Right now, 2004 is the latest version, but if you needed 2002 or earlier it does not give you an option to select an earlier version.
 * It is only Windows 10 Pro
 * On the upside, the install.wim is compressed to under 4GB so it can fit on FAT32 partitions and thus allow you to have only 1 partition on the key 
+
+
 ![72](https://user-images.githubusercontent.com/49924401/102941005-ed88d580-44b1-11eb-8948-dfe3c8691b31.PNG)
 
 ![2020-11-30_17-53-00](https://user-images.githubusercontent.com/49924401/100645457-f962fb00-333c-11eb-8b88-6e3627495ce0.png)
